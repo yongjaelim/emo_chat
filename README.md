@@ -1,6 +1,8 @@
 # emo_chat
 
-Intern project by Yongjae Lim
+Simple iOS/Android chatting app for sending/receiving custom emoji/emoticon 
+
+by Yongjae Lim
 
 ## Getting Started
 
